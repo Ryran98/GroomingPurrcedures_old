@@ -10,6 +10,7 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 15px;
 }
 
 /* Carousel */
@@ -26,6 +27,10 @@ body {
 /* QR code generator */
 #qrCode {
     margin: 15px;
+}
+
+#pawprint-logo {
+    margin-right: 0.5rem;
 }
 
 /* Hide/rearrange for smaller screens */
