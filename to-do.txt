@@ -1,0 +1,27 @@
+Grooming Purrcedures Website:
+
+==================================
+Finishing Touches
+==================================
+#- Add photos to all services
+
+#- Replace carousel images with images from Facebook reviews and review text
+
+- Get all pages looking good on mobile:
+	- Home
+	#- About Me
+	#- Services
+	#- Contact
+
+- Remove development environment stuff
+
+==================================
+Future Enhancements
+==================================
+- Add email contact form to Contact page
+
+- Google SEO, only advertise to Gloucestershire
+
+- Add static text into DB and pull it from there into the views. Set up Admin page to allow Mum to change the text whenever she wants
+
+- Booking calendar, assign days to areas

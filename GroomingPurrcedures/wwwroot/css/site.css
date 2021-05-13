@@ -10,6 +10,7 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 50px;
 }
 
 /* Carousel */
@@ -28,10 +29,38 @@ body {
     margin: 15px;
 }
 
+#pawprint-logo {
+    margin-right: 0.5rem;
+}
+
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {
     /* Hide captions */
     .carousel-caption {
         display: none;
+    }
+}
+
+.service-image {
+    padding: 0 0 0 0;
+}
+
+@media screen and (max-width: 991px) {
+    #home-text {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 539px) {
+    .carousel-review {
+        height: 350px;
+        width: 350px;
+    }
+}
+
+@media screen and (min-width: 540px) {
+    .carousel-review {
+        height: 540px;
+        width: 540px;
     }
 }
