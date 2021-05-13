@@ -40,3 +40,13 @@ body {
         display: none;
     }
 }
+
+.service-image {
+    padding: 0 0 0 0;
+}
+
+@media screen and (max-width: 991px) {
+    #home-text {
+        margin-top: 1rem;
+    }
+}
