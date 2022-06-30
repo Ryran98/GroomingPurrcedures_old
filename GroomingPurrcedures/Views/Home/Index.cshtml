@@ -2,7 +2,84 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="row" style="justify-content: center;">
+        <div id="review-carousel" class="carousel slide carousel-review" data-ride="carousel" data-interval="6000">
+            <ol class="carousel-indicators">
+                <li data-target="#review-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#review-carousel" data-slide-to="1"></li>
+                <li data-target="#review-carousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <img src="~/images/Review1.png" alt="Review 1" class="img-responsive carousel-review" />
+                    <div class="carousel-caption" role="option">
+                        <p>
+                            "Jo is really friendly and does an amazing job. Also my cats loved her which is always a bonus!
+                            Am 100% going to recommend to friends and family."
+                        </p>
+                        <p>~ Kate B</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/Review2.png" alt="Review 2" class="img-responsive carousel-review" />
+                    <div class="carousel-caption" role="option">
+                        <p>
+                            "Jo has a wonderful way with cats and Ziggy was comfortable from the start.
+                            It was his first time being professionally groomed and I think he thoroughly enjoyed
+                            his 'pamper session'. I would definitely recommend Jo."
+                        </p>
+                        <p>~ Helen D</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/Review3.png" alt="Review 3" class="img-responsive carousel-review" />
+                    <div class="carousel-caption" role="option">
+                        <p>
+                            "A huge thank you Jo for making our furbaby more comfortable! Jo was so patient and gentle
+                            and we now have a smooth and tangle free boy!"
+                        </p>
+                        <p>~ Haras W</p>
+                    </div>
+                </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <div id="home-text" class="col-lg-5 col-xl-6">
+            <p>
+                I am a mobile cat groomer based in Tewkesbury, covering Gloucestershire and parts of Worcestershire.
+            </p>
+            <p>
+                I got into grooming as 3 of my own long-haired moggies had problems with knots and matts which left
+                them grumpy, discontented and not wanting to be touched. I wanted to help them to be comfortable
+                and enjoy life again.
+                Being 95.6% tiger, most domestic cats don't appreciate what we call "a luxury pamper" - bath blow dry
+                and style.
+            </p>
+            <p>
+                Yes, on occasion, they will need this, but my aim is to get them as comfortable as possible with as
+                little stress as possible
+            </p>
+            <p>
+                Our cats give us hours of joy and comfort. They teach us love, empathy and compassion and I'd like to
+                help you give back to them by keeping them comfortable in their coats.
+            </p>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 2rem; justify-content: center;">
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBecky.l.m.brown%2Fposts%2F10157884352934065&width=500&show_text=true&appId=3570445279713180&height=722"
+                width="500" height="722" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGillAmy.Cameron%2Fposts%2F10164850678070355&width=500&show_text=true&appId=3570445279713180&height=572"
+                width="500" height="572" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    </div>
 </div>
+
