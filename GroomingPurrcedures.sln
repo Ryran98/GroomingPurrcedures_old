@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroomingPurrcedures", "GroomingPurrcedures\GroomingPurrcedures.csproj", "{45FDE316-200B-4F1C-8101-6C1E30684B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FDE316-200B-4F1C-8101-6C1E30684B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FDE316-200B-4F1C-8101-6C1E30684B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FDE316-200B-4F1C-8101-6C1E30684B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FDE316-200B-4F1C-8101-6C1E30684B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8F6FF2-E32D-4D7F-836F-4F8744645DFD}
+	EndGlobalSection
+EndGlobal
