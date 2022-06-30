@@ -8,7 +8,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuCcZJGudZku5TYd+JsverAAAAAACAAAAAAAQZgAAAAEAACAAAADpAlCD9KZgZ4k0d90UWDXdOHysk/8kaZNKRvLH8a2E4gAAAAAOgAAAAAIAACAAAAALR6almnEO+MesUHSzsGaaL4FVxUrgTD/K6w1ka07xLSAAAACCtUjCx4Kb00WlqFFxM9XvGBIuubzaXMp2oMVhfB9IikAAAAA1szViORSuR/cx1WTy3mxkAI4I2SnlIA0yI8BLJ4VyElHN/8o/HniqUXT6X1ZFNN3kfijcMy3dntCo0NpyDjqg</EncryptedPassword>
     <_PublishTargetUrl>ftps://access871192801.webspace-data.io:990</_PublishTargetUrl>
-    <History>True|2022-06-30T21:46:17.8713529Z;</History>
+    <History>True|2022-06-30T22:14:57.4280525Z;True|2022-06-30T22:46:17.8713529+01:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
@@ -18,25 +18,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/30/2022 22:36:14</publishTime>
     </File>
     <File Include="GroomingPurrcedures.deps.json">
-      <publishTime>06/30/2022 22:45:11</publishTime>
+      <publishTime>06/30/2022 23:13:32</publishTime>
     </File>
     <File Include="GroomingPurrcedures.dll">
-      <publishTime>06/30/2022 22:45:11</publishTime>
+      <publishTime>06/30/2022 23:13:32</publishTime>
     </File>
     <File Include="GroomingPurrcedures.exe">
-      <publishTime>06/30/2022 22:45:11</publishTime>
+      <publishTime>06/30/2022 23:13:32</publishTime>
     </File>
     <File Include="GroomingPurrcedures.pdb">
-      <publishTime>06/30/2022 22:45:11</publishTime>
+      <publishTime>06/30/2022 23:13:32</publishTime>
     </File>
     <File Include="GroomingPurrcedures.runtimeconfig.json">
       <publishTime>06/30/2022 22:45:11</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>06/30/2022 22:45:13</publishTime>
+      <publishTime>06/30/2022 23:13:34</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
-      <publishTime>06/30/2022 22:36:14</publishTime>
+      <publishTime>06/30/2022 22:49:13</publishTime>
     </File>
     <File Include="wwwroot/favicon.ico">
       <publishTime>06/30/2022 22:36:14</publishTime>
@@ -44,8 +44,89 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/GroomingPurrcedures.styles.css">
       <publishTime>06/30/2022 22:45:11</publishTime>
     </File>
+    <File Include="wwwroot/images/AboutMe.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/PawPrint.svg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/Review1.PNG">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/Review2.PNG">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/Review3.PNG">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Armpits.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Cat-Bath.png">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/De-Matt.PNG">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Dry-Shampoo.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/General_De-shed.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Kitten.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Lion-Trim.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Nail-Trim.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/images/services/Teddy-Trim.jpg">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
     <File Include="wwwroot/js/site.js">
       <publishTime>06/30/2022 22:36:14</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-minty.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
       <publishTime>06/30/2022 22:36:14</publishTime>
@@ -178,6 +259,30 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
       <publishTime>06/30/2022 22:36:14</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js">
+      <publishTime>05/13/2021 01:53:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>05/13/2021 01:53:01</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/LICENSE">
       <publishTime>06/30/2022 22:36:14</publishTime>
