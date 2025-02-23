@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroomingPurrcedures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62c1e46c7a420c73fe734ee6239b2f8fb5e2bcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroomingPurrcedures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroomingPurrcedures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,35 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryan\\source\\repos\\GroomingPurrcedures\\GroomingPurrcedures\\GroomingPurrcedures.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\GroomingPurrcedures_old\\GroomingPurrcedures\\GroomingPurrcedures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryan\\source\\repos\\GroomingPurrcedures\\GroomingPurrcedures\\GroomingPurrcedures.csproj": {
+    "C:\\Users\\dell\\source\\repos\\GroomingPurrcedures_old\\GroomingPurrcedures\\GroomingPurrcedures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryan\\source\\repos\\GroomingPurrcedures\\GroomingPurrcedures\\GroomingPurrcedures.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\GroomingPurrcedures_old\\GroomingPurrcedures\\GroomingPurrcedures.csproj",
         "projectName": "GroomingPurrcedures",
-        "projectPath": "C:\\Users\\Ryan\\source\\repos\\GroomingPurrcedures\\GroomingPurrcedures\\GroomingPurrcedures.csproj",
-        "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryan\\source\\repos\\GroomingPurrcedures\\GroomingPurrcedures\\obj\\",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\GroomingPurrcedures_old\\GroomingPurrcedures\\GroomingPurrcedures.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\GroomingPurrcedures_old\\GroomingPurrcedures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,18 +38,25 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

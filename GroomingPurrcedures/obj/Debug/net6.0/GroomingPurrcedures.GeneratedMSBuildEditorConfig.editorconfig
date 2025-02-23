@@ -5,52 +5,57 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GroomingPurrcedures
 build_property.RootNamespace = GroomingPurrcedures
-build_property.ProjectDir = C:\Users\Ryan\source\repos\GroomingPurrcedures\GroomingPurrcedures\
+build_property.ProjectDir = C:\Users\dell\source\repos\GroomingPurrcedures_old\GroomingPurrcedures\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ryan\source\repos\GroomingPurrcedures\GroomingPurrcedures
+build_property.MSBuildProjectDirectory = C:\Users\dell\source\repos\GroomingPurrcedures_old\GroomingPurrcedures
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Home/About.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Home/Contact.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Home/Index.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Home/Privacy.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Home/Services.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Shared/Error.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/_ViewImports.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/_ViewStart.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ryan/source/repos/GroomingPurrcedures/GroomingPurrcedures/Views/Shared/_Layout.cshtml]
+[C:/Users/dell/source/repos/GroomingPurrcedures_old/GroomingPurrcedures/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ebu7y1howq
